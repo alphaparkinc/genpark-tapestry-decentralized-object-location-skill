@@ -1,0 +1,17 @@
+{
+  "name": "genpark-tapestry-decentralized-object-location-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Tapestry Decentralized Object Location and Routing (DOLR) Mesh Protocol",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "p2p-networks",
+    "tapestry",
+    "dolr",
+    "object-location"
+  ]
+}
